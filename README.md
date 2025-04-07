@@ -1,4 +1,4 @@
-# cluster_project
+
 # Clustering Analysis Project
 
 This repository contains a Jupyter notebook (`clustering.ipynb`) that demonstrates clustering techniques using a dataset. The notebook explores various clustering algorithms, including K-Means and Hierarchical Clustering, and visualizes the results.
