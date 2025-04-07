@@ -7,11 +7,9 @@ This repository contains a Jupyter notebook (`clustering.ipynb`) that demonstrat
 
 - [Overview](#overview)
 - [Project Setup](#project-setup)
-- [Data Source](#data-source)
 - [Usage](#usage)
 - [Clustering Algorithms](#clustering-algorithms)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Overview
 
@@ -41,7 +39,7 @@ To set up and run the project:
 - Data preprocessing (such as scaling and cleaning).
 - Applying clustering algorithms (like K-Means and Hierarchical Clustering).
 - Visualizing and comparing the clustering results.
-2. **Clustering Algorithms**:
+## Clustering Algorithms
   1. K-Means Clustering
     - K-Means is a popular unsupervised machine learning algorithm that groups data into k clusters based on feature similarity.
     - The notebook uses K-Means to segment data points into k distinct groups.
